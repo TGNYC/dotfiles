@@ -13,9 +13,9 @@ fi
 brew update
 
 # GNU core utilities
-brew install coreutils
-brew install moreutils
-brew install findutils
+# brew install coreutils
+# brew install moreutils
+# brew install findutils
 
 # Install more recent versions of some OS X tools.
 #brew tap homebrew/dupes
@@ -24,29 +24,29 @@ brew install findutils
 # Install zsh
 brew install zsh
 brew install tree
-brew install getantibody/tap/antibody
+# brew install getantibody/tap/antibody
 
 # Highlighting
-brew install source-highlight
+# brew install source-highlight
 
 # Git
 brew install git
-brew install git-flow
+# brew install git-flow
 # brew install cdiff
-brew install hub
+# brew install hub
 
 # Development
-brew install python
+# brew install python
 brew install python3
-brew install ruby
+# brew install ruby
 
 # AWS
 
 # Other
-brew install mas
-brew install neovim
+# brew install mas
+# brew install neovim
 brew install wget
 # brew install gdrive
-brew install micro
+# brew install micro
 
 brew cleanup
